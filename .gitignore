@@ -1,0 +1,42 @@
+# Các thư mục NetBeans tạo
+nbproject/private/
+nbproject/Makefile-*
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Các file được tạo tự động bởi NetBeans
+*.orig
+*.bak
+
+# Các thư mục do trình biên dịch tạo ra
+/build/
+/dist/
+/out/
+
+# Các thư viện được tải xuống tự động
+lib/
+
+# Các file lớp (class) được biên dịch
+*.class
+
+# File nhật ký (log) và dữ liệu cache
+*.log
+*.tmp
+*.cache
+
+# Các file tạm thời của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Maven hoặc Gradle cache (nếu dự án sử dụng)
+.mvn/
+.gradle/
+build/
+target/
+
+# File cấu hình IDE khác (VSCode, IntelliJ)
+.idea/
+.vscode/
